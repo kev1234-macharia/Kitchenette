@@ -2,9 +2,6 @@
 
 A responsive and interactive e-commerce website developed using HTML, CSS, and JavaScript. This project showcases a user-friendly interface, dynamic product listings, and essential shopping cart functionalities, providing a seamless shopping experience
 
-🌐 Live Demo
-
-Explore the live version of the website here: Live Demo
 
 📸 Screenshots
 
